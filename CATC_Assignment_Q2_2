@@ -1,0 +1,25 @@
+#!/bin/bash
+cd CATC_Assignment/
+touch eamonWhite.txt
+chmod +x eamonWhite.txt
+date >> eamonWhite.txt
+echo -e "\n" >> eamonWhite.txt
+hostname >> eamonWhite.txt
+echo -e "\n" >> eamonWhite.txt
+arch >> eamonWhite.txt
+echo -e "\n">> eamonWhite.txt
+uname -a >> eamonWhite.txt
+echo -e "\n" >> eamonWhite.txt
+uptime >> eamonWhite.txt
+echo -e "\n" >> eamonWhite.txt
+whoami >> eamonWhite.txt
+echo -e "\n" >> eamonWhite.txt
+who >> eamonWhite.txt
+echo -e "\n" >> eamonWhite.txt
+finger >> eamonWhite.txt
+echo -e "\n" >> eamonWhite.txt
+w >> eamonWhite.txt
+echo -e "\n" >> eamonWhite.txt
+top >> eamonWhite.txt
+echo -e "\n" >> eamonWhite.txt
+history >> eamonWhite.txt
